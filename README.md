@@ -1,4 +1,4 @@
-![MERN Stack Developer](https://media.licdn.com/dms/image/D4D16AQHt6WxrmWeceg/profile-displaybackgroundimage-shrink_350_1400/0/1679166300961?e=1700697600&v=beta&t=vjdwJBkrnLYEOltaU6hyuRZMiwDjzxJfCSB_n3B4buQ)
+![MERN Stack Developer](https://media.istockphoto.com/id/1413761223/photo/young-asian-woman-watching-hologram-screens-business-technology.jpg?s=612x612&w=0&k=20&c=cpCEMZZl75d_s70VAuPqP4r-yu8vSoBv2LpvrEiH3Lg=)
 ## Hi there 👋, This is Rita
 ### MERN Stack Developer
 
