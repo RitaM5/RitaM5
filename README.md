@@ -1,6 +1,7 @@
+(https://media.licdn.com/dms/image/D4D16AQHt6WxrmWeceg/profile-displaybackgroundimage-shrink_350_1400/0/1679166300961?e=1700697600&v=beta&t=vjdwJBkrnLYEOltaU6hyuRZMiwDjzxJfCSB_n3B4buQ)
 ### Hi there 👋, This is Rita
 #### MERN Stack Developer
-![MERN Stack Developer](https://media.licdn.com/dms/image/D4D16AQHt6WxrmWeceg/profile-displaybackgroundimage-shrink_350_1400/0/1679166300961?e=1700697600&v=beta&t=vjdwJBkrnLYEOltaU6hyuRZMiwDjzxJfCSB_n3B4buQ)
+![MERN Stack Developer]
 
 A passionate web designer & developer. I have pretty solid experience in frontend web development.
 I'm expert in HTML, CSS, SASS, Bootstrap 5, Tailwind, JavaScript ES6, React JS, Firebase, Node Js, Express Js & Mongodb (Always love to learn something new).
