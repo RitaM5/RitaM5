@@ -1,10 +1,17 @@
 ![MERN Stack Developer](https://media.licdn.com/dms/image/D4D16AQHt6WxrmWeceg/profile-displaybackgroundimage-shrink_350_1400/0/1679166300961?e=1700697600&v=beta&t=vjdwJBkrnLYEOltaU6hyuRZMiwDjzxJfCSB_n3B4buQ)
-<h1 align="center">Hi 👋, This is Rita</h1>
-<h3 align="center">This is Rita, A passionate web designer & developer. I have pretty solid experience in frontend web development. I'm expert in HTML, CSS, SASS, Bootstrap 5, Tailwind, JavaScript ES6, React JS, Firebase, Node Js, Express Js & Mongodb (Always love to learn something new). I really love to code & my happiness is to solve these problems with joy, in modular and reusable way so the project always remains scalable and maintainable. Motivated to learn, grow and excel in Industry. 𝐇𝐨𝐰 𝐈'𝐦 𝐡𝐞𝐥𝐩𝐢𝐧𝐠 𝐲𝐨𝐮: * I can build websites with amazing UI UX * I will make your website dynamic * I will analyze your requirements properly</h3>
+### Hi there 👋, This is Rita
+#### MERN Stack Developer
+![MERN Stack Developer](https://media.licdn.com/dms/image/D4D16AQHt6WxrmWeceg/profile-displaybackgroundimage-shrink_350_1400/0/1679166300961?e=1700697600&v=beta&t=vjdwJBkrnLYEOltaU6hyuRZMiwDjzxJfCSB_n3B4buQ)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritam5&label=Profile%20views&color=0e75b6&style=flat" alt="ritam5" /> </p>
+A passionate web designer & developer. I have pretty solid experience in frontend web development.
+I'm expert in HTML, CSS, SASS, Bootstrap 5, Tailwind, JavaScript ES6, React JS, Firebase, Node Js, Express Js & Mongodb (Always love to learn something new).
+I really love to code & my happiness is to solve these problems with joy, in modular and reusable way so the project always remains scalable and maintainable.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritam5" alt="ritam5" /></a> </p>
+Motivated to learn, grow and excel in Industry.
+𝐇𝐨𝐰 𝐈'𝐦 𝐡𝐞𝐥𝐩𝐢𝐧𝐠 𝐲𝐨𝐮:
+* I can build websites with amazing UI UX
+* I will make your website dynamic
+* I will analyze your requirements properly
 
 - 🌱 I’m currently learning **Redux**
 
