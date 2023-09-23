@@ -33,15 +33,3 @@ Motivated to learn, grow and excel in Industry.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritam5&show_icons=true&locale=en" alt="ritam5" /></p>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RitaM5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ritamoni//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ritachowdhury71/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rita-dev.netlify.app/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitaM5)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RitaM5&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitaM5)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RitaM5)  
-
-![Profile views](https://gpvc.arturio.dev/RitaM5)  
