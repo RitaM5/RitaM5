@@ -20,6 +20,8 @@ Motivated to learn, grow and excel in Industry.
 
 - 📫 How to reach me **ritamoni515@gmail.com**
 
+![Profile views](https://gpvc.arturio.dev/RitaM5)  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ritamoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritamoni/" height="30" width="40" /></a>
@@ -33,3 +35,6 @@ Motivated to learn, grow and excel in Industry.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritam5&show_icons=true&locale=en" alt="ritam5" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitaM5)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RitaM5) 
