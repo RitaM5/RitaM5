@@ -1,4 +1,3 @@
-![MERN Stack Developer](https://media.istockphoto.com/id/1413761223/photo/young-asian-woman-watching-hologram-screens-business-technology.jpg?s=612x612&w=0&k=20&c=cpCEMZZl75d_s70VAuPqP4r-yu8vSoBv2LpvrEiH3Lg=)
 ## Hi there 👋, This is Rita
 ### MERN Stack Developer
 
