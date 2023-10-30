@@ -1,5 +1,5 @@
+![](https://i.ibb.co/5F5XY8z/screencapture-rita-dev-netlify-app-2023-10-30-21-30-01.png)
 ## Hi there 👋, This is Rita
-(https://i.ibb.co/5F5XY8z/screencapture-rita-dev-netlify-app-2023-10-30-21-30-01.png)
 ### MERN Stack Developer
 
 A passionate web designer & developer. I have pretty solid experience in frontend web development.
